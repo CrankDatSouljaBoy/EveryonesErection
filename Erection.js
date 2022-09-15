@@ -1,4 +1,4 @@
-
+// I fucking HATE homestuck
 module.exports = {
     title: "John's Erection", 
     author: "seymour (<a href='https://twitter.com/spaghettitron'>@spaghettitron</a>)</br>the \"cth\" erector",
