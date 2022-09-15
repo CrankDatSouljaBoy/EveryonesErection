@@ -1,6 +1,6 @@
 // I fucking HATE homestuck
 module.exports = {
-    title: "John's Erection", 
+    title: "Everyone's Erection", 
     author: "seymour (<a href='https://twitter.com/spaghettitron'>@spaghettitron</a>)</br>the \"cth\" erector",
     modVersion: 1.0,
 
